@@ -157,6 +157,7 @@ hr{
     background-size: cover;
     position: relative;
     background-image: url('img/background-3.jpg');
+    filter: blur(8px);
 }
 
 .tentang{
@@ -181,7 +182,7 @@ hr{
 }
 
 .tentang p{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Delius', cursive;
     font-size: 20px;
     font-weight: normal;
     text-transform: capitalize;
